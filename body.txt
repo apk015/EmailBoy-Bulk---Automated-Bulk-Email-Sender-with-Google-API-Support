@@ -1,0 +1,6 @@
+Hi {{name}},
+
+This is the body of your email.
+
+Best regards,
+Your Company
