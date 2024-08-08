@@ -1,0 +1,9 @@
+# Ignore credentials and token files
+credentials.json
+token.json
+
+# Ignore log files
+log.txt
+
+# Ignore environment variables file
+.env
